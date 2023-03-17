@@ -1,0 +1,45 @@
+<main>
+    <section id="home">
+        <h2>Welcome to Time Saver Eats!</h2>
+        <p>Discover delicious, easy-to-prepare, and nutritious recipes that will make meal prep a breeze.</p>
+        <a href="#recipes" class="cta-btn">Explore Recipes</a>
+    </section>
+
+    <section id="about">
+        <h2>About Time Saver Eats</h2>
+        <p>Time Saver Eats is dedicated to providing busy individuals with healthy meal prep options. We believe that everyone should be able to enjoy delicious, nutritious meals without spending hours in the kitchen. Our recipes are designed with simplicity and efficiency in mind, so you can save time without sacrificing flavor or quality.</p>
+    </section>
+
+    <section id="recipes">
+        <h2>Featured Recipes</h2>
+        <div class="recipe-card">
+            <img src="chicken-quinoa-bowl.jpg" alt="Chicken Quinoa Bowl">
+            <h3>Chicken Quinoa Bowl</h3>
+            <p>Enjoy this protein-packed, flavorful bowl with simple ingredients and minimal prep time.</p>
+            <a href="chicken-quinoa-bowl.html">View Recipe</a>
+        </div>
+
+        <div class="recipe-card">
+            <img src="veggie-stir-fry.jpg" alt="Veggie Stir Fry">
+            <h3>Veggie Stir Fry</h3>
+            <p>A colorful and nutrient-dense veggie stir fry that's perfect for a quick and easy weeknight dinner.</p>
+            <a href="veggie-stir-fry.html">View Recipe</a>
+        </div>
+
+        <div class="recipe-card">
+            <img src="overnight-oats.jpg" alt="Overnight Oats">
+            <h3>Overnight Oats</h3>
+            <p>Prepare these delicious and customizable overnight oats in advance for a hassle-free breakfast.</p>
+            <a href="overnight-oats.html">View Recipe</a>
+        </div>
+    </section>
+
+    <section id="tips">
+        <h2>Meal Prep Tips</h2>
+        <ul>
+            <li>Invest in quality, reusable containers to make portioning and storage easy.</li>
+            <li>Prep ingredients, like chopping vegetables or cooking grains, in advance to save time.</li>
+            <li>Batch cook recipes and freeze individual portions for grab-and-go meals.</li>
+            <li>Make use of a slow cooker or Instant Pot to minimize hands-on time in the kitchen.</li>
+        </ul>
+    </section>
